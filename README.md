@@ -12,6 +12,6 @@ TotallyNotRickroll - Trust me, this is NOT a rickroll :))
 
 # 📥 Download 📥
 
-Download .apk files - [Click here to download!](compiledapks)
+[List of compiled APK files](compiledapks)
 
-Download source code files (.aia) - [Click here to download!](sourcecode)
+[List of source code files (.aia)](sourcecode)
