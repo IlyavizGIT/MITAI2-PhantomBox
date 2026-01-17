@@ -13,4 +13,4 @@ TotallyNotRickroll - Trust me, this is NOT a rickroll :))
 # ℹ Additional Information ℹ
 Files in **.apk** are already compiled apps
 
-Files in **.aia** are source codes for each of them (To edit go to <a name="MIT App Inventor 2"></a>)[ai2a.appinventor.mit.edu](#MITAI2-LINK))
+Files in **.aia** are source codes for each of them (Edit them in MIT App Inventor 2)
