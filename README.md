@@ -10,7 +10,7 @@ PocketWeb - It's a webviewer, with light theme by default (because most websites
 
 TotallyNotRickroll - Trust me, this is NOT a rickroll :))
 
-# ℹ Additional Information ℹ
-Files in **.apk** are already compiled apps
+# 📥 Download 📥
 
-Files in **.aia** are source codes for each of them (Edit them in MIT App Inventor 2)
+Download .apk files - \[link soon](link soon)
+Download source code files (.aia) \[link soon](link soon)
